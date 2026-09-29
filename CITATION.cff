@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "AMBER: Ambient IoT carrier scheduling and backscatter device grouping"
+authors:
+  - family-names: "Arul Dalton"
+    given-names: "G."
+    affiliation: "Saveetha Engineering College, Chennai, India"
+    orcid: "https://orcid.org/0000-0002-5981-7176"
+repository-code: "https://github.com/iitrky/AMBER"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Joint Carrier Scheduling and Backscatter Device Grouping for Ambient IoT in 6G Networks via Feasibility Guaranteed Reinforcement Learning"
+  authors:
+    - family-names: "Arul Dalton"
+      given-names: "G."
+  journal: "IEEE Internet of Things Journal (submitted)"
+  year: 2026
